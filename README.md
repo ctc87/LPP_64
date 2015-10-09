@@ -1,6 +1,6 @@
 LPP_64
 ======
-Pyractica 2
+Práctica 2
 -----------
 Este es el proyecto de
 
