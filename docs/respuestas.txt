@@ -1,12 +1,17 @@
 Trabajo de equipo con git
 
-¿Cuál es la diferencia entre compilaci´on e interpretación?
+Pregunta1: ¿Cuál es la diferencia entre compilaci´on e interpretación?
+
 Respuesta1:
-La principal diferencia es que en la compilación los lenguajes utilizan una herramienta de software, llmada compilador que genera instrucciónes en código máquina o ensamblador para que sean interpretadas por la CPU, en cambio los lenguajes interpretados son interpretados en tiempo de ejecución por un interprete de dicho lenguaje. Que traducelas sentencias en ordenes para el procesador.
+La principal diferencia es que en la compilación los lenguajes utilizan una herramienta de software, llamada compiladr que genera instrucciones en código máquina o ensamblador para que sean interpretadas por la CPU, en cambio los lenguajes interpretados son interpretados en tiempo de ejecución por un interprete de dicho lenguaje. Que traducelas sentencias en ordenes para el procesador.
+
+Pregunta2: ¿Cuál es la principal diferencia entre el contenido del fichero helloWorld.sh y helloWorld.rb?
+
 Respuesta2:
+Que el del sh hace una llamada al intérprete del comando dentro de su código mientras que el del ruby no.
 
-Respuesta3:
+Pregunta3: ¿Qué significado tiene la primera línea del fichero helloWorld.sh?
 
-Respuesta4:
+Respuesta3: Representa a la dirección en el sistema de su programa intérprete.
 
-Respuesta5:
+
