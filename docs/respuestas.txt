@@ -7,11 +7,12 @@ La principal diferencia es que en la compilación los lenguajes utilizan una her
 
 Pregunta2: ¿Cuál es la principal diferencia entre el contenido del fichero helloWorld.sh y helloWorld.rb?
 
-Respuesta2:
+Respuesta2: 
 Que el del sh hace una llamada al intérprete del comando dentro de su código mientras que el del ruby no.
 
 Pregunta3: ¿Qué significado tiene la primera línea del fichero helloWorld.sh?
 
-Respuesta3: Representa a la dirección en el sistema de su programa intérprete.
+Respuesta3: 
+Representa a la dirección en el sistema de su programa intérprete.
 
 
