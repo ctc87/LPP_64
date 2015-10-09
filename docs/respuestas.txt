@@ -1,1 +1,12 @@
 Trabajo de equipo con git
+
+¿Cuál es la diferencia entre compilaci´on e interpretación?
+Respuesta1:
+La principal diferencia es que en la compilación los lenguajes utilizan una herramienta de software, llmada compilador que genera instrucciónes en código máquina o ensamblador para que sean interpretadas por la CPU, en cambio los lenguajes interpretados son interpretados en tiempo de ejecución por un interprete de dicho lenguaje. Que traducelas sentencias en ordenes para el procesador.
+Respuesta2:
+
+Respuesta3:
+
+Respuesta4:
+
+Respuesta5:
